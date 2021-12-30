@@ -1,0 +1,60 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+    box-shadow: 30px 0px 40px rgb(196, 196, 196), -30px 0px 40px rgb(196, 196, 196);
+    margin: auto;
+    max-width: 900px;
+}
+header {
+    height: 200px;
+    padding-top: 10px;
+    color: white;
+    background-color: #333;
+}
+.des{
+    text-align: center;
+    margin: 10px;
+    color: gold;
+}
+.post{
+    color: orange;
+    font-weight: bold;
+}
+h1{
+    color: #13c3ba;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    font-size: 20px;
+    margin-left: 10%;
+    color: #13c3ba;
+    letter-spacing: .1rem;
+    font-size: 18px;
+}
+hr.ligne{
+    border-top: 2px solid #13c3ba;
+    width: 90%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+.div {
+    padding: 0px;
+    width: 40%;
+    margin-left: 10%
+}
+.po {
+    margin-top: 20px;
+}
+.mono {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    width: 300px;
+    height: 7px;
+}
+.inner {
+    height: 100%;
+    background-color:  orange;
+}
+.interet{
+    margin-left: 10%;
+}
